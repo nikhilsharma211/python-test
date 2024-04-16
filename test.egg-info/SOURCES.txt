@@ -4,6 +4,17 @@ anyprint.py
 pyproject.toml
 setup.cfg
 setup.py
+.idea/misc.xml
+.idea/python-test.iml
+.idea/workspace.xml
+anyprint.egg-info/PKG-INFO
+anyprint.egg-info/SOURCES.txt
+anyprint.egg-info/dependency_links.txt
+anyprint.egg-info/top_level.txt
+dist/anyprint-1.0.1.dev0+g6805960.d20240416-py3-none-any.whl
+dist/anyprint-1.0.1.dev0+g6805960.d20240416.tar.gz
+dist/test-1.0.1.dev0+g6805960.d20240416-py3-none-any.whl
+dist/test-1.0.1.dev0+g6805960.d20240416.tar.gz
 test.egg-info/PKG-INFO
 test.egg-info/SOURCES.txt
 test.egg-info/dependency_links.txt
