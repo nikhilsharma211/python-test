@@ -1,0 +1,10 @@
+COPYING
+README.md
+anyprint.py
+pyproject.toml
+setup.cfg
+setup.py
+test.egg-info/PKG-INFO
+test.egg-info/SOURCES.txt
+test.egg-info/dependency_links.txt
+test.egg-info/top_level.txt

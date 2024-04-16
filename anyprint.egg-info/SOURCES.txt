@@ -1,0 +1,8 @@
+COPYING
+README.md
+anyprint.py
+setup.py
+anyprint.egg-info/PKG-INFO
+anyprint.egg-info/SOURCES.txt
+anyprint.egg-info/dependency_links.txt
+anyprint.egg-info/top_level.txt
